@@ -17,15 +17,15 @@ Anyone is also more than welcome to pull request, clone, fork, or otherwise  use
   - [Podcast Ideas](#podcast-ideas)
   - [TikTok Ideas](#tiktok-ideas)
   - [Art Ideas](#art-ideas)
-
-
-
-
-
+  - [Objects/Products](#objectsproducts)
+  
 ***
 ### Podcast Ideas
 * A podcast in which, using a standard, consistent set of interesting and quick interview questions, the host interviews random people that seem interesting in their daily life.
 
+### Objects/Products
+* A felt/fabric grow pot/grow back with a bottom held on with velcro or superloc so it can be removed. This is with the intention of replicating the functionality of [Rapid Stack](https://rapidstackgrowpots.com/) grow pots but with the benefits of cloth pots AND the added bonus of not permanenly damaging the pot when removing the bottom and making re-use of the bottom panel easier. 
+  
 ### TikTok Ideas
 
 ### Art Ideas
