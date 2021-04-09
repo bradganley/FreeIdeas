@@ -1,2 +1,26 @@
-# FreeIdeas
-A collection of ideas, concepts, plans, or thoughts that have the potential to be useful but are beyond my means or interest. Since I am unable or uninterested in further pursuing these ideas, I am releasing them for the world to use freely. 
+# Free Ideas from Brad for Everybody
+
+This file is a collection of random thoughts, concepts, ideas, etc, blach blah, whatever that I come up with and believe to be potentially successful in some manner when fully fleshed out but I, personally, do not plan on pursuing or deepening for any number of reasons. 
+
+Any and all text, images, concepts, ideas, or anything otherwise on or in reference to this repository or its content are free for any use by anyone. 
+
+## How to use it
+
+Simply look at the list and take from it anything you'd like to. 
+
+Anyone is also more than welcome to pull request, clone, fork, or otherwise  use in whatever other manner one prefers to submit modifications to this list or make a list like this of one's own. 
+
+## Crediting
+
+If you choose to credit me in any work you create from these ideas, it would delight me but I do not demand that you do so. 
+
+
+
+## Contributing
+Pull requests are welcome.
+
+If an idea or some form of content in this list is problematic or offensive in any way, please contact or open an issue immediately and I will take steps to correct it.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
