@@ -13,11 +13,25 @@ Simply look at the list and take from it anything you'd like to.
 
 Anyone is also more than welcome to pull request, clone, fork, or otherwise  use in whatever other manner one prefers to submit modifications to this list or make a list like this of one's own. 
 
+***
+# Contents
+* ### [Podcast Ideas](#-podcast-ideas)
+* ### [TikTok Ideas](#tiktok-ideas)
+* ### [Art Ideas](#art-ideas)
+
+
+
+
+***
+## Podcast Ideas
+* A podcast in which, using a standard, consistent set of interesting and quick interview questions, the host interviews random people that seem interesting in their daily life.
+
+## TikTok Ideas
+
+## Art Ideas
 ## Crediting
 
 If you choose to credit me in any work you create from these ideas, it would delight me but I do not demand that you do so. 
-
-
 
 ## Contributing
 Pull requests are welcome.
