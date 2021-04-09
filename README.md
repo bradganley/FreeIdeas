@@ -15,9 +15,10 @@ Anyone is also more than welcome to pull request, clone, fork, or otherwise  use
 ## Contents
 - [Contents](#contents)
   - [Podcast Ideas](#podcast-ideas)
+  - [Objects/Products](#objectsproducts)
   - [TikTok Ideas](#tiktok-ideas)
   - [Art Ideas](#art-ideas)
-  - [Objects/Products](#objectsproducts)
+  
   
 ***
 ### Podcast Ideas
