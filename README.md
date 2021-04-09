@@ -16,6 +16,7 @@ Anyone is also more than welcome to pull request, clone, fork, or otherwise  use
 - [Contents](#contents)
   - [Podcast Ideas](#podcast-ideas)
   - [Objects/Products](#objectsproducts)
+  - [T-shirt Ideas](#t-shirt-ideas)
   - [TikTok Ideas](#tiktok-ideas)
   - [Art Ideas](#art-ideas)
   
@@ -26,6 +27,10 @@ Anyone is also more than welcome to pull request, clone, fork, or otherwise  use
 
 ### Objects/Products
 * A felt/fabric grow pot/grow bag with a bottom held on with velcro or superloc so it can be removed. This is with the intention of replicating the functionality of [Rapid Stack](https://rapidstackgrowpots.com/) grow pots but with the benefits of cloth pots AND the added bonus of not permanenly damaging the pot when removing the bottom and making re-use of the bottom panel easier. 
+  
+### T-shirt Ideas
+* Alligator in Shelock Holmes hat -- Inspectigator
+* A series of plain-colored t-shirts with a small, hand-printed design hidden somewhere on th inside or outside of the shirt in a different place on each one.
   
 ### TikTok Ideas
 
