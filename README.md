@@ -30,7 +30,7 @@ Anyone is also more than welcome to pull request, clone, fork, or otherwise  use
   
 ### T-shirt Ideas
 * Alligator in Shelock Holmes hat -- Inspectigator
-* A series of plain-colored t-shirts with a small, hand-printed design hidden somewhere on th inside or outside of the shirt in a different place on each one.
+* A series of plain-colored t-shirts with a small, hand-printed design hidden somewhere on the inside or outside of the shirt in a different place on each one.
   
 ### TikTok Ideas
 
