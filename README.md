@@ -36,6 +36,9 @@ Anyone is also more than welcome to pull request, clone, fork, or otherwise  use
 
 ### Art Ideas
 
+### Misc.
+* Cougar John Mellencamp - A MILF version of John Mellencamp
+
 
 #### Crediting
 
