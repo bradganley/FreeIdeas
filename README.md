@@ -38,7 +38,7 @@ Anyone is also more than welcome to pull request, clone, fork, or otherwise  use
 
 ### Misc.
 * Cougar John Mellencamp - A MILF version of John Mellencamp
-
+* Thrush Limbaugh - Like the bird. A fat racist thrush? I'm not sure but I think it could be something. 
 
 #### Crediting
 
